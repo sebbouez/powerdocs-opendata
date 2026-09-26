@@ -1,0 +1,146 @@
+{
+  "languages": [
+    {
+      "lcid": 1031,
+      "culture": "de-DE",
+      "name": "German (Germany)",
+      "version": "1.0.0",
+      "files": [
+        {
+          "name": "de_DE.aff",
+          "type": "affix",
+          "size": 19199,
+          "sha256": "57fdd1b16aac2131003c91e0cf2a488becb970382a402a9ce089307301cb3ef0"
+        },
+        {
+          "name": "de_DE.dic",
+          "type": "dictionary",
+          "size": 1116164,
+          "sha256": "00f2f127b7ab8c963abf99ef7f593e54f14c828f1cf749895b5211a4f5daf6d3"
+        },
+        {
+          "name": "de_DE.dat",
+          "type": "thesaurus",
+          "size": 31662751,
+          "sha256": "cae18340c59738350b8abe7d7822edb76a8f26d177c3f7cdc68fb0187ca25693"
+        }
+      ]
+    },
+    {
+      "lcid": 1033,
+      "culture": "en-US",
+      "name": "English (United States)",
+      "version": "1.0.0",
+      "files": [
+        {
+          "name": "en_US.aff",
+          "type": "affix",
+          "size": 3037,
+          "sha256": "f2ee1055e50f76dc380d353e792634087458cc88661f89ce5b3c8ec3c35a6e92"
+        },
+        {
+          "name": "en_US.dic",
+          "type": "dictionary",
+          "size": 539867,
+          "sha256": "216c5c09d7deb3b88ff6b2603562394990abaf646a3c9641eb67a95fc124e2a7"
+        },
+        {
+          "name": "en_US.dat",
+          "type": "thesaurus",
+          "size": 18553257,
+          "sha256": "8a3e4637450b7277428da248f0a604b5c92942bc30507220c051181462340f39"
+        },
+        {
+          "name": "language-rules.json",
+          "type": "rules",
+          "size": 1687,
+          "sha256": "fe799631fe61d26a04cc18c834693bf37cced795ec383102fd76dce55de0417f"
+        }
+      ]
+    },
+    {
+      "lcid": 1036,
+      "culture": "fr-FR",
+      "name": "French (France)",
+      "version": "1.0.0",
+      "files": [
+        {
+          "name": "fr_FR.aff",
+          "type": "affix",
+          "size": 272576,
+          "sha256": "53d693823ab1f38f6f8bb077c31f2ff246350498a643d9a203af449674064752"
+        },
+        {
+          "name": "fr_FR.dic",
+          "type": "dictionary",
+          "size": 1147170,
+          "sha256": "8c4588585a50b5099a2cc47d98493c3db4177add61463eedcd1538da6db94bab"
+        },
+        {
+          "name": "fr_FR.dat",
+          "type": "thesaurus",
+          "size": 4668643,
+          "sha256": "a28216ddcf499f377979ec1d876472a53527a6450744cd1219b4d04a3c854318"
+        },
+        {
+          "name": "language-rules.json",
+          "type": "rules",
+          "size": 1372,
+          "sha256": "36ad0f1476f72ad9d44656a5eba7f4f9eb7ee6420225a8389aca353b380cf409"
+        }
+      ]
+    },
+    {
+      "lcid": 1040,
+      "culture": "it-IT",
+      "name": "Italian (Italy)",
+      "version": "1.0.0",
+      "files": [
+        {
+          "name": "it_IT.aff",
+          "type": "affix",
+          "size": 70020,
+          "sha256": "5770cd3e16d494c045b4a9a4a9fcd7962577e642d0384a7129c020a12cdd2c79"
+        },
+        {
+          "name": "it_IT.dic",
+          "type": "dictionary",
+          "size": 1295754,
+          "sha256": "b1348fbdb6f441ea9dd7e33b2cfcb96ead39ccd5e48bf894972774cd5aa86abb"
+        },
+        {
+          "name": "it_IT.dat",
+          "type": "thesaurus",
+          "size": 2126721,
+          "sha256": "17fa1b397088df564c38eb55f3cf6413bed1760bdd316f81eb398f3446812717"
+        }
+      ]
+    },
+    {
+      "lcid": 3082,
+      "culture": "es-ES",
+      "name": "Spanish (Spain)",
+      "version": "1.0.0",
+      "files": [
+        {
+          "name": "es_ES.aff",
+          "type": "affix",
+          "size": 167031,
+          "sha256": "67b0d642f4d7335c36264da56a8354bd48ae07faf967418f88599c69dce39766"
+        },
+        {
+          "name": "es_ES.dic",
+          "type": "dictionary",
+          "size": 695938,
+          "sha256": "fd39e6ac2ef45a979c8e21192aaeb3bf649752526da40013987a4116899220fd"
+        },
+        {
+          "name": "es_ES.dat",
+          "type": "thesaurus",
+          "size": 2876818,
+          "sha256": "da6b1c50fb3e41a369f53e421fc14bd9dbf2b8870d0734326ea0318a815ce5b6"
+        }
+      ]
+    }
+  ]
+}

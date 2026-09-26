@@ -1,0 +1,85 @@
+{
+  "locale": "en-US",
+  "version": 1,
+  "fillerWords": [
+    {
+      "text": "at the end of the day",
+      "explanation": "Often unnecessary filler; consider removing or being more specific."
+    },
+    {
+      "text": "needless to say",
+      "explanation": "If it's needless to say, consider not saying it."
+    },
+    {
+      "text": "for all intents and purposes",
+      "explanation": "Wordy filler; consider removing."
+    },
+    {
+      "text": "as a matter of fact",
+      "explanation": "Filler phrase; consider removing."
+    },
+    {
+      "text": "basically"
+    },
+    {
+      "text": "actually"
+    }
+  ],
+  "anglicisms": [
+    {
+      "word": "utilize",
+      "suggestions": ["use"],
+      "explanation": "\"Utilize\" rarely means more than \"use\"; the plainer word is usually clearer."
+    },
+    {
+      "word": "commence",
+      "suggestions": ["start", "begin"]
+    },
+    {
+      "word": "terminate",
+      "suggestions": ["end"]
+    },
+    {
+      "word": "endeavor",
+      "suggestions": ["try"]
+    },
+    {
+      "word": "leverage",
+      "suggestions": ["use"],
+      "explanation": "As a verb, \"leverage\" is often corporate jargon for \"use\"."
+    },
+    {
+      "word": "cognizant",
+      "suggestions": ["aware"]
+    }
+  ],
+  "homophones": [
+  ],
+  "spaceBeforePunctuation": {
+    "required": [],
+    "forbidden": ["?", "!", ":", ";"]
+  },
+  "autoCorrections": [
+    {
+      "from": "doesnt",
+      "to": "doesn't"
+    },
+    {
+      "from": "dont",
+      "to": "don't"
+    },
+    {
+      "from": "cant",
+      "to": "can't"
+    },
+    {
+      "from": "im",
+      "to": "I'm"
+    },
+    {
+      "from": "he don't",
+      "to": "he doesn't"
+    }
+  ]
+}
+

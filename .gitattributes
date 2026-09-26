@@ -1,0 +1,5 @@
+# Les fichiers de langues sont publiés tels quels : PowerDocs vérifie leur taille et leur
+# empreinte SHA-256 après téléchargement. Aucune conversion de fin de ligne ne doit donc
+# modifier leur contenu entre la copie de travail et le dépôt.
+dictionaries/** -text
+index.json -text

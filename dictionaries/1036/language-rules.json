@@ -1,0 +1,59 @@
+{
+  "locale": "fr-FR",
+  "version": 1,
+  "fillerWords": [
+    {
+      "text": "en fait",
+      "explanation": "« En fait » est souvent superflu ; envisagez de le supprimer."
+    },
+    {
+      "text": "du coup",
+      "explanation": "« Du coup » est un tic de langage à l'oral, à éviter à l'écrit soutenu."
+    },
+    {
+      "text": "voilà"
+    }
+  ],
+  "anglicisms": [
+    {
+      "word": "email",
+      "suggestions": ["courriel", "e-mail"],
+      "explanation": "« Email » est un anglicisme ; « courriel » est la forme recommandée en français."
+    },
+    {
+      "word": "feedback",
+      "suggestions": ["retour", "avis"]
+    }
+  ],
+  "homophones": [
+    {
+      "id": "a-vs-a-accent",
+      "forms": ["a", "à"],
+      "explanation": "« a » (verbe avoir, remplaçable par « avait ») ou « à » (préposition) : vérifiez le bon usage."
+    },
+    {
+      "id": "ou-vs-ou-accent",
+      "forms": ["ou", "où"],
+      "explanation": "« ou » (choix, remplaçable par « ou bien ») ou « où » (lieu/temps) : vérifiez le bon usage."
+    }
+  ],
+  "spaceBeforePunctuation": {
+    "required": ["?", "!", ":", ";"],
+    "forbidden": []
+  },
+  "autoCorrections": [
+    {
+      "from": "ala",
+      "to": "a la"
+    },
+    {
+      "from": "aujourdhui",
+      "to": "aujourd'hui"
+    },
+    {
+      "from": "voila",
+      "to": "voilà"
+    }
+  ]
+}
+
