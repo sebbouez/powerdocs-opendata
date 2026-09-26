@@ -1,0 +1,191 @@
+{
+  "locale": "it-IT",
+  "version": 1,
+  "fillerWords": [
+    {
+      "text": "praticamente",
+      "explanation": "«Praticamente» è spesso un intercalare superfluo; valuta di eliminarlo."
+    },
+    {
+      "text": "sostanzialmente",
+      "explanation": "Spesso superfluo; valuta di eliminarlo."
+    },
+    {
+      "text": "in pratica"
+    },
+    {
+      "text": "diciamo",
+      "explanation": "«Diciamo» come intercalare indebolisce la frase; formula in modo diretto."
+    },
+    {
+      "text": "cioè",
+      "explanation": "«Cioè» usato come intercalare è tipico del parlato; evitalo nello scritto."
+    },
+    {
+      "text": "insomma"
+    },
+    {
+      "text": "per così dire"
+    },
+    {
+      "text": "in un certo senso",
+      "explanation": "Espressione vaga; precisa il senso o eliminala."
+    },
+    {
+      "text": "a livello di",
+      "explanation": "«A livello di» è spesso usato impropriamente; preferisci «per quanto riguarda» o «in»."
+    },
+    {
+      "text": "un attimino",
+      "explanation": "«Un attimino» è colloquiale; preferisci «un po'» o «un momento»."
+    },
+    {
+      "text": "alla fine della fiera",
+      "explanation": "Espressione colloquiale; preferisci «in conclusione» o «alla fine»."
+    }
+  ],
+  "anglicisms": [
+    {
+      "word": "meeting",
+      "suggestions": ["riunione", "incontro"]
+    },
+    {
+      "word": "feedback",
+      "suggestions": ["riscontro", "parere", "commento"],
+      "explanation": "«Feedback» è un anglicismo; «riscontro» è l'equivalente italiano."
+    },
+    {
+      "word": "deadline",
+      "suggestions": ["scadenza", "termine"]
+    },
+    {
+      "word": "weekend",
+      "suggestions": ["fine settimana"]
+    },
+    {
+      "word": "location",
+      "suggestions": ["luogo", "sede", "ambientazione"]
+    },
+    {
+      "word": "mission",
+      "suggestions": ["missione", "obiettivo"]
+    },
+    {
+      "word": "competitor",
+      "suggestions": ["concorrente"]
+    },
+    {
+      "word": "skill",
+      "suggestions": ["competenza", "abilità"]
+    },
+    {
+      "word": "performance",
+      "suggestions": ["prestazione", "rendimento", "esibizione"]
+    },
+    {
+      "word": "step",
+      "suggestions": ["passaggio", "fase", "tappa"]
+    },
+    {
+      "word": "task",
+      "suggestions": ["compito", "attività"]
+    },
+    {
+      "word": "briefing",
+      "suggestions": ["riunione preparatoria", "istruzioni"]
+    },
+    {
+      "word": "welfare",
+      "suggestions": ["stato sociale", "assistenza sociale"]
+    }
+  ],
+  "homophones": [
+    {
+      "id": "e-vs-e-accent",
+      "forms": ["e", "è"],
+      "explanation": "«e» (congiunzione) o «è» (verbo essere): verifica l'uso corretto."
+    },
+    {
+      "id": "a-vs-ha",
+      "forms": ["a", "ha"],
+      "explanation": "«a» (preposizione) o «ha» (verbo avere, sostituibile con «aveva»): verifica l'uso corretto."
+    },
+    {
+      "id": "o-vs-ho",
+      "forms": ["o", "ho"],
+      "explanation": "«o» (congiunzione) o «ho» (verbo avere, sostituibile con «avevo»): verifica l'uso corretto."
+    },
+    {
+      "id": "ai-vs-hai",
+      "forms": ["ai", "hai"],
+      "explanation": "«ai» (preposizione articolata) o «hai» (verbo avere, sostituibile con «avevi»): verifica l'uso corretto."
+    },
+    {
+      "id": "anno-vs-hanno",
+      "forms": ["anno", "hanno"],
+      "explanation": "«anno» (periodo di dodici mesi) o «hanno» (verbo avere, sostituibile con «avevano»): verifica l'uso corretto."
+    },
+    {
+      "id": "da-vs-da-accent",
+      "forms": ["da", "dà"],
+      "explanation": "«da» (preposizione) o «dà» (verbo dare): verifica l'uso corretto."
+    },
+    {
+      "id": "ne-vs-ne-accent",
+      "forms": ["ne", "né"],
+      "explanation": "«ne» (pronome o avverbio) o «né» (congiunzione negativa: né… né…): verifica l'uso corretto."
+    },
+    {
+      "id": "li-vs-li-accent",
+      "forms": ["li", "lì"],
+      "explanation": "«li» (pronome) o «lì» (avverbio di luogo): verifica l'uso corretto."
+    }
+  ],
+  "spaceBeforePunctuation": {
+    "required": [],
+    "forbidden": ["?", "!", ":", ";"]
+  },
+  "autoCorrections": [
+    { "from": "perchè", "to": "perché" },
+    { "from": "perche", "to": "perché" },
+    { "from": "poichè", "to": "poiché" },
+    { "from": "poiche", "to": "poiché" },
+    { "from": "benchè", "to": "benché" },
+    { "from": "affinchè", "to": "affinché" },
+    { "from": "finchè", "to": "finché" },
+    { "from": "nè", "to": "né" },
+    { "from": "sè", "to": "sé" },
+    { "from": "cioé", "to": "cioè" },
+    { "from": "piu", "to": "più" },
+    { "from": "gia", "to": "già" },
+    { "from": "puo", "to": "può" },
+    { "from": "cosi", "to": "così" },
+    { "from": "citta", "to": "città" },
+    { "from": "universita", "to": "università" },
+    { "from": "societa", "to": "società" },
+    { "from": "qualita", "to": "qualità" },
+    { "from": "verita", "to": "verità" },
+    { "from": "liberta", "to": "libertà" },
+    { "from": "pò", "to": "po'" },
+    { "from": "stò", "to": "sto" },
+    { "from": "fà", "to": "fa" },
+    { "from": "và", "to": "va" },
+    { "from": "quì", "to": "qui" },
+    { "from": "quà", "to": "qua" },
+    { "from": "sù", "to": "su" },
+    { "from": "qual'è", "to": "qual è" },
+    { "from": "un'altro", "to": "un altro" },
+    { "from": "daccordo", "to": "d'accordo" },
+    { "from": "sopratutto", "to": "soprattutto" },
+    { "from": "propio", "to": "proprio" },
+    { "from": "pultroppo", "to": "purtroppo" },
+    { "from": "efficente", "to": "efficiente" },
+    { "from": "sufficente", "to": "sufficiente" },
+    { "from": "coscenza", "to": "coscienza" },
+    { "from": "scienzato", "to": "scienziato" },
+    { "from": "ingegniere", "to": "ingegnere" },
+    { "from": "aereoporto", "to": "aeroporto" },
+    { "from": "areoplano", "to": "aeroplano" },
+    { "from": "metereologico", "to": "meteorologico" }
+  ]
+}

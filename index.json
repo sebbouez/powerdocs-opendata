@@ -4,7 +4,7 @@
       "lcid": 1031,
       "culture": "de-DE",
       "name": "German (Germany)",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "files": [
         {
           "name": "de_DE.aff",
@@ -23,6 +23,12 @@
           "type": "thesaurus",
           "size": 31662751,
           "sha256": "cae18340c59738350b8abe7d7822edb76a8f26d177c3f7cdc68fb0187ca25693"
+        },
+        {
+          "name": "language-rules.json",
+          "type": "rules",
+          "size": 6821,
+          "sha256": "f695403548e80dfac7a7a2f8bd5278703a78b28ffe3f923cbd70a89445192d18"
         }
       ]
     },
@@ -62,7 +68,7 @@
       "lcid": 1036,
       "culture": "fr-FR",
       "name": "French (France)",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "files": [
         {
           "name": "fr_FR.aff",
@@ -85,8 +91,8 @@
         {
           "name": "language-rules.json",
           "type": "rules",
-          "size": 1372,
-          "sha256": "36ad0f1476f72ad9d44656a5eba7f4f9eb7ee6420225a8389aca353b380cf409"
+          "size": 10254,
+          "sha256": "467d49ed55dd748f726932653bd449d0781170d64beaa8b7e7045f3346af6b6f"
         }
       ]
     },
@@ -94,7 +100,7 @@
       "lcid": 1040,
       "culture": "it-IT",
       "name": "Italian (Italy)",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "files": [
         {
           "name": "it_IT.aff",
@@ -113,6 +119,12 @@
           "type": "thesaurus",
           "size": 2126721,
           "sha256": "17fa1b397088df564c38eb55f3cf6413bed1760bdd316f81eb398f3446812717"
+        },
+        {
+          "name": "language-rules.json",
+          "type": "rules",
+          "size": 5950,
+          "sha256": "ff8ddcde1a7b683508e038b73470e10573212feb27868fa6b90a34434566afd7"
         }
       ]
     },
@@ -120,7 +132,7 @@
       "lcid": 3082,
       "culture": "es-ES",
       "name": "Spanish (Spain)",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "files": [
         {
           "name": "es_ES.aff",
@@ -139,6 +151,12 @@
           "type": "thesaurus",
           "size": 2876818,
           "sha256": "da6b1c50fb3e41a369f53e421fc14bd9dbf2b8870d0734326ea0318a815ce5b6"
+        },
+        {
+          "name": "language-rules.json",
+          "type": "rules",
+          "size": 7399,
+          "sha256": "264953459407ca5f2b9b1fc656c04d42ba049b6a1590ea9a9a5a0c2d258ae527"
         }
       ]
     }

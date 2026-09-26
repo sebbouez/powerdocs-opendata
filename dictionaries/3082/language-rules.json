@@ -1,0 +1,232 @@
+{
+  "locale": "es-ES",
+  "version": 1,
+  "fillerWords": [
+    {
+      "text": "o sea",
+      "explanation": "«O sea» como muletilla es propio del habla oral; evítelo en un texto escrito."
+    },
+    {
+      "text": "en plan",
+      "explanation": "«En plan» como muletilla es coloquial; evítelo en un texto escrito."
+    },
+    {
+      "text": "básicamente",
+      "explanation": "«Básicamente» suele ser superfluo; considere eliminarlo."
+    },
+    {
+      "text": "literalmente",
+      "explanation": "«Literalmente» se usa a menudo como simple intensificador; compruebe si es necesario."
+    },
+    {
+      "text": "digamos"
+    },
+    {
+      "text": "en realidad"
+    },
+    {
+      "text": "de alguna manera",
+      "explanation": "Expresión vaga; precise la idea o elimínela."
+    },
+    {
+      "text": "a nivel de",
+      "explanation": "«A nivel de» solo es adecuado cuando hay niveles; en otros casos, prefiera «en», «en cuanto a» o «entre»."
+    },
+    {
+      "text": "la verdad es que",
+      "explanation": "Fórmula de relleno; suele poder eliminarse."
+    },
+    {
+      "text": "pues nada"
+    }
+  ],
+  "anglicisms": [
+    {
+      "word": "email",
+      "suggestions": ["correo electrónico", "correo"],
+      "explanation": "«Email» es un anglicismo; se recomienda «correo electrónico» o simplemente «correo»."
+    },
+    {
+      "word": "feedback",
+      "suggestions": ["retroalimentación", "comentarios", "opinión"]
+    },
+    {
+      "word": "online",
+      "suggestions": ["en línea", "en internet"]
+    },
+    {
+      "word": "link",
+      "suggestions": ["enlace", "vínculo"]
+    },
+    {
+      "word": "links",
+      "suggestions": ["enlaces", "vínculos"]
+    },
+    {
+      "word": "password",
+      "suggestions": ["contraseña"]
+    },
+    {
+      "word": "meeting",
+      "suggestions": ["reunión"]
+    },
+    {
+      "word": "deadline",
+      "suggestions": ["fecha límite", "plazo"]
+    },
+    {
+      "word": "marketing",
+      "suggestions": ["mercadotecnia", "mercadeo"]
+    },
+    {
+      "word": "hobby",
+      "suggestions": ["afición", "pasatiempo"]
+    },
+    {
+      "word": "parking",
+      "suggestions": ["aparcamiento", "estacionamiento"]
+    },
+    {
+      "word": "look",
+      "suggestions": ["aspecto", "imagen", "estilo"]
+    },
+    {
+      "word": "freelance",
+      "suggestions": ["autónomo", "independiente"]
+    },
+    {
+      "word": "backup",
+      "suggestions": ["copia de seguridad"]
+    },
+    {
+      "word": "startup",
+      "suggestions": ["empresa emergente"]
+    },
+    {
+      "word": "influencer",
+      "suggestions": ["influyente", "influenciador"]
+    },
+    {
+      "word": "manager",
+      "suggestions": ["gerente", "representante", "mánager"]
+    },
+    {
+      "word": "coaching",
+      "suggestions": ["asesoramiento", "entrenamiento", "orientación"]
+    }
+  ],
+  "homophones": [
+    {
+      "id": "hecho-vs-echo",
+      "forms": ["hecho", "echo"],
+      "explanation": "«hecho» (verbo hacer o sustantivo) o «echo» (verbo echar): compruebe la ortografía."
+    },
+    {
+      "id": "haber-vs-a-ver",
+      "forms": ["haber", "a ver"],
+      "explanation": "«haber» (verbo) o «a ver» (preposición + verbo ver: «vamos a ver»): compruebe la ortografía."
+    },
+    {
+      "id": "hay-vs-ahi-vs-ay",
+      "forms": ["hay", "ahí", "ay"],
+      "explanation": "«hay» (verbo haber), «ahí» (adverbio de lugar) o «ay» (interjección): compruebe la ortografía."
+    },
+    {
+      "id": "haya-vs-halla",
+      "forms": ["haya", "halla"],
+      "explanation": "«haya» (verbo haber o árbol) o «halla» (verbo hallar, encontrar): compruebe la ortografía."
+    },
+    {
+      "id": "vaya-vs-valla-vs-baya",
+      "forms": ["vaya", "valla", "baya"],
+      "explanation": "«vaya» (verbo ir o interjección), «valla» (cerca) o «baya» (fruto): compruebe la ortografía."
+    },
+    {
+      "id": "tuvo-vs-tubo",
+      "forms": ["tuvo", "tubo"],
+      "explanation": "«tuvo» (verbo tener) o «tubo» (pieza hueca): compruebe la ortografía."
+    },
+    {
+      "id": "habria-vs-abria",
+      "forms": ["habría", "abría"],
+      "explanation": "«habría» (verbo haber) o «abría» (verbo abrir): compruebe la ortografía."
+    },
+    {
+      "id": "si-vs-si-tilde",
+      "forms": ["si", "sí"],
+      "explanation": "«si» (condicional) o «sí» (afirmación o pronombre): compruebe la tilde."
+    },
+    {
+      "id": "tu-vs-tu-tilde",
+      "forms": ["tu", "tú"],
+      "explanation": "«tu» (posesivo: tu casa) o «tú» (pronombre personal): compruebe la tilde."
+    },
+    {
+      "id": "mas-vs-mas-tilde",
+      "forms": ["mas", "más"],
+      "explanation": "«mas» (equivale a «pero») o «más» (cantidad): compruebe la tilde."
+    },
+    {
+      "id": "aun-vs-aun-tilde",
+      "forms": ["aun", "aún"],
+      "explanation": "«aún» (equivale a «todavía») o «aun» (equivale a «incluso»): compruebe la tilde."
+    },
+    {
+      "id": "porque-vs-porque-tilde",
+      "forms": ["porque", "porqué", "por qué", "por que"],
+      "explanation": "«porque» (causa), «por qué» (pregunta), «porqué» (sustantivo: el motivo) o «por que» (preposición + relativo): compruebe la forma."
+    },
+    {
+      "id": "votar-vs-botar",
+      "forms": ["votar", "botar"],
+      "explanation": "«votar» (emitir un voto) o «botar» (hacer rebotar, lanzar al agua): compruebe la ortografía."
+    }
+  ],
+  "spaceBeforePunctuation": {
+    "required": [],
+    "forbidden": ["?", "!", ":", ";"]
+  },
+  "autoCorrections": [
+    { "from": "tambien", "to": "también" },
+    { "from": "despues", "to": "después" },
+    { "from": "ademas", "to": "además" },
+    { "from": "asi", "to": "así" },
+    { "from": "aqui", "to": "aquí" },
+    { "from": "atras", "to": "atrás" },
+    { "from": "facil", "to": "fácil" },
+    { "from": "dificil", "to": "difícil" },
+    { "from": "algun", "to": "algún" },
+    { "from": "ningun", "to": "ningún" },
+    { "from": "pais", "to": "país" },
+    { "from": "dias", "to": "días" },
+    { "from": "adios", "to": "adiós" },
+    { "from": "cafe", "to": "café" },
+    { "from": "rapido", "to": "rápido" },
+    { "from": "exito", "to": "éxito" },
+    { "from": "telefono", "to": "teléfono" },
+    { "from": "informacion", "to": "información" },
+    { "from": "atencion", "to": "atención" },
+    { "from": "situacion", "to": "situación" },
+    { "from": "relacion", "to": "relación" },
+    { "from": "educacion", "to": "educación" },
+    { "from": "cancion", "to": "canción" },
+    { "from": "osea", "to": "o sea" },
+    { "from": "porfavor", "to": "por favor" },
+    { "from": "sinembargo", "to": "sin embargo" },
+    { "from": "enserio", "to": "en serio" },
+    { "from": "apesar", "to": "a pesar" },
+    { "from": "aveces", "to": "a veces" },
+    { "from": "almenos", "to": "al menos" },
+    { "from": "encambio", "to": "en cambio" },
+    { "from": "nadamas", "to": "nada más" },
+    { "from": "atraves", "to": "a través" },
+    { "from": "a travez", "to": "a través" },
+    { "from": "haber si", "to": "a ver si" },
+    { "from": "ha ver", "to": "a ver" },
+    { "from": "a sido", "to": "ha sido" },
+    { "from": "e sido", "to": "he sido" },
+    { "from": "ha echo", "to": "ha hecho" },
+    { "from": "he echo", "to": "he hecho" },
+    { "from": "hecho de menos", "to": "echo de menos" }
+  ]
+}

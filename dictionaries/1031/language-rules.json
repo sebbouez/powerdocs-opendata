@@ -1,0 +1,220 @@
+{
+  "locale": "de-DE",
+  "version": 1,
+  "fillerWords": [
+    {
+      "text": "eigentlich",
+      "explanation": "„Eigentlich“ ist oft überflüssig; erwägen Sie, es zu streichen."
+    },
+    {
+      "text": "im Grunde genommen",
+      "explanation": "Füllausdruck; meist ohne Bedeutungsverlust streichbar."
+    },
+    {
+      "text": "sozusagen",
+      "explanation": "„Sozusagen“ schwächt die Aussage ab; formulieren Sie lieber direkt."
+    },
+    {
+      "text": "quasi",
+      "explanation": "„Quasi“ ist häufig ein Füllwort; prüfen Sie, ob es nötig ist."
+    },
+    {
+      "text": "halt",
+      "explanation": "„Halt“ als Füllwort ist umgangssprachlich und in Texten zu vermeiden."
+    },
+    {
+      "text": "irgendwie",
+      "explanation": "„Irgendwie“ macht die Aussage vage; formulieren Sie genauer."
+    },
+    {
+      "text": "gewissermaßen"
+    },
+    {
+      "text": "an und für sich",
+      "explanation": "Füllausdruck; meist ohne Bedeutungsverlust streichbar."
+    },
+    {
+      "text": "im Endeffekt",
+      "explanation": "Umgangssprachlicher Füllausdruck; „letztlich“ oder Streichen ist meist besser."
+    },
+    {
+      "text": "letzten Endes"
+    },
+    {
+      "text": "wie gesagt",
+      "explanation": "Wenn es schon gesagt wurde, kann der Hinweis meist entfallen."
+    },
+    {
+      "text": "Fakt ist",
+      "explanation": "Umgangssprachliche Floskel; formulieren Sie die Aussage direkt."
+    }
+  ],
+  "anglicisms": [
+    {
+      "word": "Meeting",
+      "suggestions": ["Besprechung", "Sitzung", "Treffen"]
+    },
+    {
+      "word": "Meetings",
+      "suggestions": ["Besprechungen", "Sitzungen", "Treffen"]
+    },
+    {
+      "word": "Feedback",
+      "suggestions": ["Rückmeldung", "Rückmeldungen"],
+      "explanation": "„Feedback“ ist ein Anglizismus; „Rückmeldung“ ist die deutsche Entsprechung."
+    },
+    {
+      "word": "Deadline",
+      "suggestions": ["Frist", "Abgabetermin", "Stichtag"]
+    },
+    {
+      "word": "Deadlines",
+      "suggestions": ["Fristen", "Abgabetermine", "Stichtage"]
+    },
+    {
+      "word": "Event",
+      "suggestions": ["Veranstaltung", "Ereignis"]
+    },
+    {
+      "word": "Events",
+      "suggestions": ["Veranstaltungen", "Ereignisse"]
+    },
+    {
+      "word": "Location",
+      "suggestions": ["Veranstaltungsort", "Ort"]
+    },
+    {
+      "word": "Performance",
+      "suggestions": ["Leistung", "Auftritt"]
+    },
+    {
+      "word": "Skills",
+      "suggestions": ["Fähigkeiten", "Kompetenzen", "Kenntnisse"]
+    },
+    {
+      "word": "Task",
+      "suggestions": ["Aufgabe"]
+    },
+    {
+      "word": "Tasks",
+      "suggestions": ["Aufgaben"]
+    },
+    {
+      "word": "Challenge",
+      "suggestions": ["Herausforderung"]
+    },
+    {
+      "word": "Statement",
+      "suggestions": ["Stellungnahme", "Aussage"]
+    },
+    {
+      "word": "Mindset",
+      "suggestions": ["Denkweise", "Einstellung", "Haltung"]
+    },
+    {
+      "word": "Handout",
+      "suggestions": ["Handzettel", "Tischvorlage", "Informationsblatt"]
+    },
+    {
+      "word": "downloaden",
+      "suggestions": ["herunterladen"]
+    },
+    {
+      "word": "updaten",
+      "suggestions": ["aktualisieren"]
+    },
+    {
+      "word": "canceln",
+      "suggestions": ["absagen", "stornieren"]
+    },
+    {
+      "word": "gecancelt",
+      "suggestions": ["abgesagt", "storniert"]
+    },
+    {
+      "word": "checken",
+      "suggestions": ["prüfen", "überprüfen", "verstehen"],
+      "explanation": "„Checken“ ist umgangssprachlich; je nach Bedeutung „prüfen“ oder „verstehen“."
+    }
+  ],
+  "homophones": [
+    {
+      "id": "das-vs-dass",
+      "forms": ["das", "dass"],
+      "explanation": "„das“ (Artikel oder Pronomen, ersetzbar durch „dieses“ oder „welches“) oder „dass“ (Konjunktion): Prüfen Sie die Schreibung."
+    },
+    {
+      "id": "seid-vs-seit",
+      "forms": ["seid", "seit"],
+      "explanation": "„seid“ (Verb sein: ihr seid) oder „seit“ (zeitlich: seit gestern): Prüfen Sie die Schreibung."
+    },
+    {
+      "id": "wieder-vs-wider",
+      "forms": ["wieder", "wider"],
+      "explanation": "„wieder“ (erneut) oder „wider“ (gegen): Prüfen Sie die Schreibung."
+    },
+    {
+      "id": "tot-vs-tod",
+      "forms": ["tot", "Tod"],
+      "explanation": "„tot“ (Adjektiv) oder „Tod“ (Substantiv): Prüfen Sie die Schreibung."
+    },
+    {
+      "id": "statt-vs-stadt",
+      "forms": ["statt", "Stadt"],
+      "explanation": "„statt“ (anstelle von) oder „Stadt“ (Ortschaft): Prüfen Sie die Schreibung."
+    },
+    {
+      "id": "leere-vs-lehre",
+      "forms": ["Leere", "Lehre"],
+      "explanation": "„Leere“ (leerer Raum) oder „Lehre“ (Ausbildung, Lehrmeinung): Prüfen Sie die Schreibung."
+    },
+    {
+      "id": "miene-vs-mine",
+      "forms": ["Miene", "Mine"],
+      "explanation": "„Miene“ (Gesichtsausdruck) oder „Mine“ (Bergwerk, Sprengkörper, Stiftmine): Prüfen Sie die Schreibung."
+    },
+    {
+      "id": "waise-vs-weise",
+      "forms": ["Waise", "Weise"],
+      "explanation": "„Waise“ (Kind ohne Eltern) oder „Weise“ (Art und Weise, weiser Mensch): Prüfen Sie die Schreibung."
+    },
+    {
+      "id": "malen-vs-mahlen",
+      "forms": ["malen", "mahlen"],
+      "explanation": "„malen“ (ein Bild) oder „mahlen“ (Kaffee, Getreide): Prüfen Sie die Schreibung."
+    }
+  ],
+  "spaceBeforePunctuation": {
+    "required": [],
+    "forbidden": ["?", "!", ":", ";"]
+  },
+  "autoCorrections": [
+    { "from": "vieleicht", "to": "vielleicht" },
+    { "from": "villeicht", "to": "vielleicht" },
+    { "from": "garnicht", "to": "gar nicht" },
+    { "from": "wiso", "to": "wieso" },
+    { "from": "nähmlich", "to": "nämlich" },
+    { "from": "wärend", "to": "während" },
+    { "from": "wahrend", "to": "während" },
+    { "from": "zumindestens", "to": "zumindest" },
+    { "from": "wiederrum", "to": "wiederum" },
+    { "from": "ausversehen", "to": "aus Versehen" },
+    { "from": "seperat", "to": "separat" },
+    { "from": "agressiv", "to": "aggressiv" },
+    { "from": "entgültig", "to": "endgültig" },
+    { "from": "moglich", "to": "möglich" },
+    { "from": "naturlich", "to": "natürlich" },
+    { "from": "Standart", "to": "Standard" },
+    { "from": "Rythmus", "to": "Rhythmus" },
+    { "from": "Addresse", "to": "Adresse" },
+    { "from": "Maschiene", "to": "Maschine" },
+    { "from": "Ergebniss", "to": "Ergebnis" },
+    { "from": "Wiederspruch", "to": "Widerspruch" },
+    { "from": "Vorraussetzung", "to": "Voraussetzung" },
+    { "from": "Reperatur", "to": "Reparatur" },
+    { "from": "Resourcen", "to": "Ressourcen" },
+    { "from": "Gallerie", "to": "Galerie" },
+    { "from": "Terasse", "to": "Terrasse" },
+    { "from": "Hobbies", "to": "Hobbys" }
+  ]
+}
